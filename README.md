@@ -13,8 +13,8 @@ Nele, ONG's iram cadastrar projetos e as pessoas interessadas poderam doar um va
 ## :computer: Pagina Web
 
 <p align="center">
-  <img src="" alt="Pagina Home"/>
-  <img src="" alt="Pagina de Incidentes"/>
-  <img src="" alt="Pagina Cadastro Incidentes"/>
+  <img src="assets/web-home.png" alt="Pagina Home"/>
+  <img src="assets/web-incidents.png" alt="Pagina de Incidentes"/>
+  <img src="assets/web-new-incidents.png" alt="Pagina Cadastro Incidentes"/>
   <img src="" alt="Pagina Cadastro ONG"/>
 </p>
