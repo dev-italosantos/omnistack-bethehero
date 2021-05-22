@@ -15,6 +15,6 @@ Nele, ONG's iram cadastrar projetos e as pessoas interessadas poderam doar um va
 <p align="center">
   <img src="assets/web-home.png" alt="Pagina Home"/>
   <img src="assets/web-incidents.png" alt="Pagina de Incidentes"/>
-  <img src="assets/web-new-incidents.png" alt="Pagina Cadastro Incidentes"/>
-  <img src="" alt="Pagina Cadastro ONG"/>
+  <img src="assets/web-new-incident.png" alt="Pagina Cadastro Incidentes"/>
+  <img src="assets/web-new-ong.png" alt="Pagina Cadastro ONG"/>
 </p>
